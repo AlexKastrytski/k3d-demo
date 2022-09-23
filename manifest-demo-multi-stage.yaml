@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: demo-multi-stage
-        image: demo-registry:5000/demo-multi-stage:0.1
+        image: demo-registry:5000/alexandrkas-stage:0.1
         ports:
         - containerPort: 8080
 ---
