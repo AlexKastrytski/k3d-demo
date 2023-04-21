@@ -37,4 +37,4 @@ spec:
     app: demo-multi-stage
   ports:
   - protocol: TCP
-    port: 8081
+    port: 8080
